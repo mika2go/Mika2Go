@@ -22,19 +22,19 @@
 ## Projects
 
 <p align="left">
-  <a href="https://github.com/mika2go/Wreath"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-wreath.png" alt="Wreath" /></a>
-  <a href="https://github.com/mika2go/PIDRA"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-pidra.png" alt="PIDRA" /></a>
-  <a href="https://github.com/mika2go/Trellis"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-trellis.png" alt="Trellis" /></a>
-  <a href="https://github.com/mika2go/solis-browser"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-solis-browser.png" alt="solis-browser" /></a>
-  <a href="https://github.com/mika2go/dotfiles"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-dotfiles.png" alt="dotfiles" /></a>
-  <a href="https://github.com/mika2go/Crosshair-Hype"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-crosshair-hype.png" alt="Crosshair-Hype" /></a>
+  <a href="https://github.com/mikaeww/Wreath"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-wreath.png" alt="Wreath" /></a>
+  <a href="https://github.com/mikaeww/PIDRA"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-pidra.png" alt="PIDRA" /></a>
+  <a href="https://github.com/mikaeww/Trellis"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-trellis.png" alt="Trellis" /></a>
+  <a href="https://github.com/mikaeww/solis-browser"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-solis-browser.png" alt="solis-browser" /></a>
+  <a href="https://github.com/mikaeww/dotfiles"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-dotfiles.png" alt="dotfiles" /></a>
+  <a href="https://github.com/mikaeww/Crosshair-Hype"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-crosshair-hype.png" alt="Crosshair-Hype" /></a>
 </p>
 
 ## Contributed
 
 <p align="left">
-  <a href="https://github.com/drvcvt/eddy"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-eddy.png" alt="eddy" /></a>
-  <a href="https://github.com/drvcvt/boltsnap"><img width="278" src="https://raw.githubusercontent.com/mika2go/Mika2Go/main/assets/pin-boltsnap.png" alt="boltsnap" /></a>
+  <a href="https://github.com/drvcvt/eddy"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-eddy.png" alt="eddy" /></a>
+  <a href="https://github.com/drvcvt/boltsnap"><img width="278" src="https://raw.githubusercontent.com/mikaeww/mikaeww/main/assets/pin-boltsnap.png" alt="boltsnap" /></a>
 </p>
 
 <p align="left"><sub>Windows side only on both — native platform integration and installer packaging.</sub></p>
